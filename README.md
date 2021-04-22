@@ -5,9 +5,9 @@ I'm French software developer :)
 
 ### Few stats on my GitHub profile
 
-![chris-scientist globals stats](https://github-stats-hosted-by-chris-scientist.vercel.app/api?username=chris-scientist&show_icons=true)
+![chris-scientist globals stats](https://github-stats-hosted-by-chris-scientist.vercel.app/api?username=chris-scientist&show_icons=true&theme=dark)
 
-![chris-scientist top langs](https://github-stats-hosted-by-chris-scientist.vercel.app/api/top-langs/?username=chris-scientist&layout=compact&hide=html,javascript)
+![chris-scientist top langs](https://github-stats-hosted-by-chris-scientist.vercel.app/api/top-langs/?username=chris-scientist&layout=compact&hide=html,javascript&theme=dark)
 
 This stats use [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
