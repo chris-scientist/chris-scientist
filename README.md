@@ -3,14 +3,12 @@
 
 I'm French software developer :)
 
-### Few stats on my GitHub profile
+### In my spare time
 
-![chris-scientist globals stats](https://github-stats-hosted-by-chris-scientist.vercel.app/api?username=chris-scientist&show_icons=true&theme=dark)
+I make video game for Gamebuino META.
 
-![chris-scientist top langs](https://github-stats-hosted-by-chris-scientist.vercel.app/api/top-langs/?username=chris-scientist&layout=compact&hide=html,javascript&theme=dark)
+I create computer program on micro:bit.
 
-This stats use [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+And other fun activities =)
 
-### My side projects
-
-For more informations on my side projects go on [chris-scientist.github.io](https://chris-scientist.github.io) (only in french).
+So I develop with Java, JavaScript, C++, PHP and Python.
